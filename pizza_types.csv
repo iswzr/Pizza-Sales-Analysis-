@@ -1,0 +1,33 @@
+pizza_type_id,name,category
+bbq_ckn,The Barbecue Chicken Pizza,Chicken
+cali_ckn,The California Chicken Pizza,Chicken
+ckn_alfredo,The Chicken Alfredo Pizza,Chicken
+ckn_pesto,The Chicken Pesto Pizza,Chicken
+southw_ckn,The Southwest Chicken Pizza,Chicken
+thai_ckn,The Thai Chicken Pizza,Chicken
+big_meat,The Big Meat Pizza,Classic
+classic_dlx,The Classic Deluxe Pizza,Classic
+hawaiian,The Hawaiian Pizza,Classic
+ital_cpcllo,The Italian Capocollo Pizza,Classic
+napolitana,The Napolitana Pizza,Classic
+pep_msh_pep,"The Pepperoni, Mushroom, and Peppers Pizza",Classic
+pepperoni,The Pepperoni Pizza,Classic
+the_greek,The Greek Pizza,Classic
+brie_carre,The Brie Carre Pizza,Supreme
+calabrese,The Calabrese Pizza,Supreme
+ital_supr,The Italian Supreme Pizza,Supreme
+peppr_salami,The Pepper Salami Pizza,Supreme
+prsc_argla,The Prosciutto and Arugula Pizza,Supreme
+sicilian,The Sicilian Pizza,Supreme
+soppressata,The Soppressata Pizza,Supreme
+spicy_ital,The Spicy Italian Pizza,Supreme
+spinach_supr,The Spinach Supreme Pizza,Supreme
+five_cheese,The Five Cheese Pizza,Veggie
+four_cheese,The Four Cheese Pizza,Veggie
+green_garden,The Green Garden Pizza,Veggie
+ital_veggie,The Italian Vegetables Pizza,Veggie
+mediterraneo,The Mediterranean Pizza,Veggie
+mexicana,The Mexicana Pizza,Veggie
+spin_pesto,The Spinach Pesto Pizza,Veggie
+spinach_fet,The Spinach and Feta Pizza,Veggie
+veggie_veg,The Vegetables + Vegetables Pizza,Veggie
